@@ -1,5 +1,5 @@
-{"customer_id":1,"name":"Raj Rai","email":"raj@abc.com","created_at":"1748168424587","address":{"zip":60609,"street":"44th Street","building_name":"Test1"},"location":[41.81114, -87.63541]}
-{"customer_id":2,"name":"Rohan Sawant","email":"rohan@abc.com","created_at":"1748168424587","address":{"zip":60609,"street":"45th Street","building_name":"Test2"},"location":[41.81457, -87.63555]}
-{"customer_id":3,"name":"Rishi Kapoor","email":"rishi@abc.com","created_at":"1748168424587","address":{"zip":60609 ,"street":"46th Street","building_name":"Test3"},"location":[41.811984 , -87.634598]}
-{"customer_id":4,"name":"Ranvir Singh","email":"ranvir@abc.com","created_at":"1748168424587","address":{"zip":60609 ,"street":"47th Street","building_name":"Test4"},"location":[34.14861,  -118.14000]}
-{"customer_id":5,"name":"Rohit Sharma","email":"rohit@abc.com","created_at":"1748168424587","address":{"zip":60609 ,"street":"44th Street","building_name":"Test5"},"location":[34.14861 , -118.14000]}
+[{"customer_id":1,"name":"Raj Rai","email":"raj@abc.com","created_at":"1748168424587","address":{"zip":60609,"street":"44th Street","building_name":"Test1"},"location":[41.81114, -87.63541]},
+{"customer_id":2,"name":"Rohan Sawant","email":"rohan@abc.com","created_at":"1748168424587","address":{"zip":60609,"street":"45th Street","building_name":"Test2"},"location":[41.81457, -87.63555]},
+{"customer_id":3,"name":"Rishi Kapoor","email":"rishi@abc.com","created_at":"1748168424587","address":{"zip":60609 ,"street":"46th Street","building_name":"Test3"},"location":[41.811984 , -87.634598]},
+{"customer_id":4,"name":"Ranvir Singh","email":"ranvir@abc.com","created_at":"1748168424587","address":{"zip":60609 ,"street":"47th Street","building_name":"Test4"},"location":[34.14861,  -118.14000]},
+{"customer_id":5,"name":"Rohit Sharma","email":"rohit@abc.com","created_at":"1748168424587","address":{"zip":60609 ,"street":"44th Street","building_name":"Test5"},"location":[34.14861 , -118.14000]}]
